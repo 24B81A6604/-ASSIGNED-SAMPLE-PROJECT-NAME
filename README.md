@@ -1,2 +1,6 @@
 # -ASSIGNED-SAMPLE-PROJECT-NAME
-ABOUT THE PROJECT
+This project is created for academic demonstration purpose only
+Software Configuration Management using GitHub
+Student Name: <D.ANUDEEP>
+Roll Number: <24B81A6604>
+Class: <CSM-A>
